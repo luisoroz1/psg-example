@@ -1,4 +1,4 @@
-Reglas de ajedrez
+#Reglas de ajedrez
 
 """Las normas que regulan el juego entre dos jugadores que se enfrentan con piezas blancas
 y negras sobre un tablero de 64 casillas. Las reglas básicas de juego son 12:"""
